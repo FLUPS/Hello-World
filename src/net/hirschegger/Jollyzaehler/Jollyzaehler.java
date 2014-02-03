@@ -52,7 +52,7 @@ public class Jollyzaehler extends Activity {
     public String iscVpunkteeingabe = "0";
     public int iscVpunkte = 0;
     public String iscVs1b = "0";
-    public String iscVs1n = "Uma";
+    public String iscVs1n = "Uma-Ruth";
     private TextView iscWindow7Label0;
     private Button iscWindow7Knopf10;
     private Button iscWindow7Button10;
