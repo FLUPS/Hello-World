@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/iscwindow7"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <Button
+        android:id="@+id/iscWindow7Knopf10"
+        android:text="@string/knopf1b"
+        android:layout_width="100px"
+        android:layout_marginLeft="10px"
+        android:layout_alignParentLeft="true"
+        android:layout_height="50px"
+        android:layout_marginTop="50px"
+        android:layout_alignParentTop="true"></Button>
+
+    <Button
+        android:id="@+id/iscWindow7Knopf40"
+        android:text="@string/knopf2b"
+        android:layout_width="100px"
+        android:layout_marginLeft="10px"
+        android:layout_alignParentLeft="true"
+        android:layout_height="50px"
+        android:layout_marginTop="240px"
+        android:layout_alignParentTop="true"></Button>
+
+    <Button
+        android:id="@+id/iscWindow7Knopf20"
+        android:text="@string/knopf3b"
+        android:layout_width="100px"
+        android:layout_marginLeft="10px"
+        android:layout_alignParentLeft="true"
+        android:layout_height="50px"
+        android:layout_marginTop="113px"
+        android:layout_alignParentTop="true"></Button>
+
+    <Button
+        android:id="@+id/iscWindow7Knopf30"
+        android:text="@string/knopf4b"
+        android:layout_width="100px"
+        android:layout_marginLeft="12px"
+        android:layout_alignParentLeft="true"
+        android:layout_height="50px"
+        android:layout_marginTop="180px"
+        android:layout_alignParentTop="true"></Button>
+
+    <EditText
+        android:id="@+id/iscWindow7TextField0"
+        android:layout_width="100dp"
+        android:layout_marginLeft="177dp"
+        android:layout_alignParentLeft="true"
+        android:layout_height="80dp"
+        android:layout_marginTop="58dp"
+        android:layout_alignParentTop="true"
+        android:numeric="signed"
+        android:inputType="numberSigned"></EditText>
+</RelativeLayout>
