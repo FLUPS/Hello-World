@@ -1,6 +1,5 @@
 Hello-World
 ===========
 
-Einführung
+Remote Spielereien für den GIT Kurs bei Open HPI
 
-Was solls ...
